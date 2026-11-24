@@ -1,0 +1,11 @@
+# Motion Control - Dépendances Python
+# Cible : Windows x64, Python 3.10-3.11
+
+# Interface graphique moderne
+customtkinter==5.2.2
+Pillow==10.4.0
+
+# Vision par ordinateur et détection de visages
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+numpy==1.26.4
